@@ -6,8 +6,8 @@ using System.Threading.Tasks;
 
 namespace hotel.Infraestructure.Interfaces
 {
-    public class Rooms
+    public class IRoomsRepository
     {
-        public int Id_Rooms { get; set; }
+        public int Id_IRoomsRepository { get; set; }
     }
 }

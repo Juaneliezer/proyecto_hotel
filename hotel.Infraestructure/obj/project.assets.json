@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\MSI ACCOUNT\\.nuget\\packages\\": {}
+    "C:\\Users\\jelie\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\MSI ACCOUNT\\source\\repos\\proyecto_hotel\\hotel.Infraestructure\\hotel.Infraestructure.csproj",
+      "projectUniqueName": "C:\\Users\\jelie\\Source\\Repos\\proyecto_hotel\\hotel.Infraestructure\\hotel.Infraestructure.csproj",
       "projectName": "hotel.Infraestructure",
-      "projectPath": "C:\\Users\\MSI ACCOUNT\\source\\repos\\proyecto_hotel\\hotel.Infraestructure\\hotel.Infraestructure.csproj",
-      "packagesPath": "C:\\Users\\MSI ACCOUNT\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\MSI ACCOUNT\\source\\repos\\proyecto_hotel\\hotel.Infraestructure\\obj\\",
+      "projectPath": "C:\\Users\\jelie\\Source\\Repos\\proyecto_hotel\\hotel.Infraestructure\\hotel.Infraestructure.csproj",
+      "packagesPath": "C:\\Users\\jelie\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\jelie\\Source\\Repos\\proyecto_hotel\\hotel.Infraestructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\MSI ACCOUNT\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\jelie\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
