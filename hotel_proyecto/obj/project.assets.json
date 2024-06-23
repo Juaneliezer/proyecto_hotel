@@ -428,19 +428,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\jelie\\.nuget\\packages\\": {}
+    "C:\\Users\\MSI ACCOUNT\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jelie\\source\\repos\\hotel_proyecto\\hotel_proyecto\\hotel_proyecto.Api.csproj",
+      "projectUniqueName": "C:\\Users\\MSI ACCOUNT\\source\\repos\\proyecto_hotel\\hotel_proyecto\\hotel_proyecto.Api.csproj",
       "projectName": "hotel_proyecto.Api",
-      "projectPath": "C:\\Users\\jelie\\source\\repos\\hotel_proyecto\\hotel_proyecto\\hotel_proyecto.Api.csproj",
-      "packagesPath": "C:\\Users\\jelie\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jelie\\source\\repos\\hotel_proyecto\\hotel_proyecto\\obj\\",
+      "projectPath": "C:\\Users\\MSI ACCOUNT\\source\\repos\\proyecto_hotel\\hotel_proyecto\\hotel_proyecto.Api.csproj",
+      "packagesPath": "C:\\Users\\MSI ACCOUNT\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\MSI ACCOUNT\\source\\repos\\proyecto_hotel\\hotel_proyecto\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\jelie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\MSI ACCOUNT\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
