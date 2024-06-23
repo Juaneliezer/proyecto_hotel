@@ -1,0 +1,11 @@
+C:\Users\jelie\source\repos\hotel_proyecto\hotel.Application\bin\Debug\net8.0\hotel.Application.deps.json
+C:\Users\jelie\source\repos\hotel_proyecto\hotel.Application\bin\Debug\net8.0\hotel.Application.dll
+C:\Users\jelie\source\repos\hotel_proyecto\hotel.Application\bin\Debug\net8.0\hotel.Application.pdb
+C:\Users\jelie\source\repos\hotel_proyecto\hotel.Application\obj\Debug\net8.0\hotel.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jelie\source\repos\hotel_proyecto\hotel.Application\obj\Debug\net8.0\hotel.Application.AssemblyInfoInputs.cache
+C:\Users\jelie\source\repos\hotel_proyecto\hotel.Application\obj\Debug\net8.0\hotel.Application.AssemblyInfo.cs
+C:\Users\jelie\source\repos\hotel_proyecto\hotel.Application\obj\Debug\net8.0\hotel.Application.csproj.CoreCompileInputs.cache
+C:\Users\jelie\source\repos\hotel_proyecto\hotel.Application\obj\Debug\net8.0\hotel.Application.dll
+C:\Users\jelie\source\repos\hotel_proyecto\hotel.Application\obj\Debug\net8.0\refint\hotel.Application.dll
+C:\Users\jelie\source\repos\hotel_proyecto\hotel.Application\obj\Debug\net8.0\hotel.Application.pdb
+C:\Users\jelie\source\repos\hotel_proyecto\hotel.Application\obj\Debug\net8.0\ref\hotel.Application.dll

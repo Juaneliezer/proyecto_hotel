@@ -1,0 +1,11 @@
+C:\Users\jelie\source\repos\hotel_proyecto\hotel.Domain\bin\Debug\net8.0\hotel.Domain.deps.json
+C:\Users\jelie\source\repos\hotel_proyecto\hotel.Domain\bin\Debug\net8.0\hotel.Domain.dll
+C:\Users\jelie\source\repos\hotel_proyecto\hotel.Domain\bin\Debug\net8.0\hotel.Domain.pdb
+C:\Users\jelie\source\repos\hotel_proyecto\hotel.Domain\obj\Debug\net8.0\hotel.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jelie\source\repos\hotel_proyecto\hotel.Domain\obj\Debug\net8.0\hotel.Domain.AssemblyInfoInputs.cache
+C:\Users\jelie\source\repos\hotel_proyecto\hotel.Domain\obj\Debug\net8.0\hotel.Domain.AssemblyInfo.cs
+C:\Users\jelie\source\repos\hotel_proyecto\hotel.Domain\obj\Debug\net8.0\hotel.Domain.csproj.CoreCompileInputs.cache
+C:\Users\jelie\source\repos\hotel_proyecto\hotel.Domain\obj\Debug\net8.0\hotel.Domain.dll
+C:\Users\jelie\source\repos\hotel_proyecto\hotel.Domain\obj\Debug\net8.0\refint\hotel.Domain.dll
+C:\Users\jelie\source\repos\hotel_proyecto\hotel.Domain\obj\Debug\net8.0\hotel.Domain.pdb
+C:\Users\jelie\source\repos\hotel_proyecto\hotel.Domain\obj\Debug\net8.0\ref\hotel.Domain.dll
