@@ -8,19 +8,19 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\jelie\\.nuget\\packages\\": {}
+    "C:\\Users\\MSI ACCOUNT\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\jelie\\source\\repos\\hotel_proyecto\\hotel.Domain\\hotel.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\MSI ACCOUNT\\source\\repos\\proyecto_hotel\\hotel.Domain\\hotel.Domain.csproj",
       "projectName": "hotel.Domain",
-      "projectPath": "C:\\Users\\jelie\\source\\repos\\hotel_proyecto\\hotel.Domain\\hotel.Domain.csproj",
-      "packagesPath": "C:\\Users\\jelie\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\jelie\\source\\repos\\hotel_proyecto\\hotel.Domain\\obj\\",
+      "projectPath": "C:\\Users\\MSI ACCOUNT\\source\\repos\\proyecto_hotel\\hotel.Domain\\hotel.Domain.csproj",
+      "packagesPath": "C:\\Users\\MSI ACCOUNT\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\MSI ACCOUNT\\source\\repos\\proyecto_hotel\\hotel.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\jelie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\MSI ACCOUNT\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [

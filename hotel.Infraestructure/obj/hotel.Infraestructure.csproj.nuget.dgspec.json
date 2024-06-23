@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\jelie\\source\\repos\\hotel_proyecto\\hotel.Infraestructure\\hotel.Infraestructure.csproj": {}
+    "C:\\Users\\MSI ACCOUNT\\source\\repos\\proyecto_hotel\\hotel.Infraestructure\\hotel.Infraestructure.csproj": {}
   },
   "projects": {
-    "C:\\Users\\jelie\\source\\repos\\hotel_proyecto\\hotel.Infraestructure\\hotel.Infraestructure.csproj": {
+    "C:\\Users\\MSI ACCOUNT\\source\\repos\\proyecto_hotel\\hotel.Infraestructure\\hotel.Infraestructure.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\jelie\\source\\repos\\hotel_proyecto\\hotel.Infraestructure\\hotel.Infraestructure.csproj",
+        "projectUniqueName": "C:\\Users\\MSI ACCOUNT\\source\\repos\\proyecto_hotel\\hotel.Infraestructure\\hotel.Infraestructure.csproj",
         "projectName": "hotel.Infraestructure",
-        "projectPath": "C:\\Users\\jelie\\source\\repos\\hotel_proyecto\\hotel.Infraestructure\\hotel.Infraestructure.csproj",
-        "packagesPath": "C:\\Users\\jelie\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\jelie\\source\\repos\\hotel_proyecto\\hotel.Infraestructure\\obj\\",
+        "projectPath": "C:\\Users\\MSI ACCOUNT\\source\\repos\\proyecto_hotel\\hotel.Infraestructure\\hotel.Infraestructure.csproj",
+        "packagesPath": "C:\\Users\\MSI ACCOUNT\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\MSI ACCOUNT\\source\\repos\\proyecto_hotel\\hotel.Infraestructure\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\jelie\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\MSI ACCOUNT\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
